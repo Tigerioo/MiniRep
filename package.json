@@ -1,0 +1,13 @@
+{
+  "name": "minirep",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "check:syntax": "node scripts/check-syntax.cjs",
+    "check:smoke": "node scripts/check-smoke.cjs"
+  },
+  "devDependencies": {
+    "fengari-node-cli": "0.1.0",
+    "luaparse": "0.3.1"
+  }
+}

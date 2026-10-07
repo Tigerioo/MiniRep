@@ -1,0 +1,13 @@
+## Interface: 50504
+## Title: MiniRep
+## Notes: Multi-faction reputation tracker with daily gains for Mists Classic.
+## Notes-zhCN: 多声望关注、分类筛选与今日新增统计。Ctrl+左键拖动。
+## Author: MiniRep
+## Version: 1.1.0
+## SavedVariablesPerCharacter: MiniRepDB
+
+Core.lua
+Reputation.lua
+Daily.lua
+Display.lua
+Options.lua
